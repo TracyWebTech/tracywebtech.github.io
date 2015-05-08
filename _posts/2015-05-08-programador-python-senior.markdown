@@ -1,25 +1,78 @@
 ---
 layout: post
-title:  Programador Python Senior
+title:  Programador Full-Stack Sênior (Python)
 date:   2015-05-08 18:02:33
 categories: jobs update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+**Local de Trabalho:** Ribeirão Preto - SP
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+**Enviar CV para**: <contato@tracy.com.br>
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+## Quem Somos?
+
+Prazer! Somos a Tracy Web Technologies. Somos a soma de profissionais que acreditam numa nova maneira de trabalhar. Acreditamos que por gostarmos do que fazemos e termos um ambiente de trabalho agradável obtemos melhores resultados para o seu projeto. Desenvolvemos aplicações Web para solucionar qualquer demanda de nossos clientes. Reunimos profissionais com anos de experiência em projetos realizados no Brasil, Estados Unidos, Austrália e Europa nas mais diversas áreas — logística, RH, comércio, telefonia, eventos, entre outros.
+O que fazemos?
+
+
+## Aplicações Web, simples assim!
+
+Porém... quando pensamos em Aplicações Web, pensamos em um sistema orgânico que irá suprir as necessidades de nossos clientes. Personalizamos o seu projeto afim de garantir uma identidade própria e um sistema intuitivo e simples para o seu público-alvo. Utilizamos como base para desenvolvimento: Python e Django.
+
+Além de desenvolvimento de aplicações Web, a Tracy também ajuda seus clientes a cuidarem de sua infraestrutura de servidores. Primeira parceira oficial da Puppet Labs no Brasil a Tracy realiza implantação e manutenção de servidores com a utilização de Puppet além de oferecer treinamento e capacitação para o uso da tecnologia.
+
+
+## Perfil
+
+* Escreva algoritmos tão bem quanto fala seu idioma nativo
+* Divirta-se aprendendo e compartilhando o que sabe
+* Seja movido a desafios (além do café...)
+* Saiba trabalhar em equipe
+* Saiba a diferença entre Javascript e Java
+* Não tenha medo de letrinhas passando na sua tela (estilo Matrix)
+
+
+## Requisitos
+
+* 4+ anos de experiência em programação
+* Domínio da linguagem Python
+* Experiência em gestão de servidores Linux
+* Experiência desenvolvendo aplicações Web
+
+
+## Conhecimentos desejados
+
+* Conhecimento sobre testes de software
+* Particições e contribuições em Projetos de Software Livre é um **super** plus.
+* Senso de design para desenvolver interfaces intuitivas
+* Capacidade de tomar decisões programáticas
+
+
+## Responsabilidades
+
+* Liderar o desenvolvimento tecnico dos projetos
+* Colaborar com a definição de prazos, entregáveis, orçamentos, etc.
+* Familiaridade com métodos ágeis
+
+
+## Tecnologias
+
+* Python
+* Django
+* Puppet
+* Linux (Ubuntu/CentOS/AWS Linux)
+* git
+* HTML
+* CSS
+* Javascript
+* MySQL
+* PostgreSQL
+
+
+## Remuneração
+
+
+
+**Enviar CV para**: <contato@tracy.com.br>
