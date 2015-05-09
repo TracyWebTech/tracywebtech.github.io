@@ -1,6 +1,7 @@
 # Site settings
 title: Tracy Web Technologies
 logo: "/images/tracy-azul.png"
+external_site: "https://tracy.com.br/"
 email: contato@tracy.com.br
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
