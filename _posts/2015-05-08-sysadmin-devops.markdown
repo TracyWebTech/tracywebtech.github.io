@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Programador Full-Stack Sênior (Python)
-date:   2015-05-08 18:02:33
+title:  SysAdmin / Devops (Pleno)
+date:   2015-05-09 10:02:33
 categories: jobs
 ---
 
@@ -36,37 +36,25 @@ Além de desenvolvimento de aplicações Web, a Tracy também ajuda seus cliente
 
 ## Requisitos
 
-* 4+ anos de experiência em programação
-* Domínio da linguagem Python
-* Experiência em gestão de servidores Linux
-* Experiência desenvolvendo aplicações Web
+* 3+ anos de experiência em administração de servidores Linux
+* Experiência com a linguagem Python
 
 
 ## Conhecimentos desejados
 
 * Conhecimento sobre testes de software
 * Particições e contribuições em Projetos de Software Livre é um **super** plus.
-* Senso de design para desenvolver interfaces intuitivas
 * Capacidade de tomar decisões programáticas
-
-
-## Responsabilidades
-
-* Liderar o desenvolvimento tecnico dos projetos
-* Colaborar com a definição de prazos, entregáveis, orçamentos, etc.
-* Fazer a ponte entre desenvolvedores e outras pessoas na empresa
+* Familiaridade com métodos ágeis
 
 
 ## Tecnologias
 
+* Puppet / Chef
+* Shell Script
 * Python
-* Django
-* Puppet
 * Linux (Ubuntu/CentOS/AWS Linux)
 * git
-* HTML
-* CSS
-* Javascript
 * MySQL
 * PostgreSQL
 * Gunicorn/uWSGI
@@ -77,7 +65,7 @@ Além de desenvolvimento de aplicações Web, a Tracy também ajuda seus cliente
 
 ## Remuneração
 
-Faixa salarial: R$5000,00 - R$7000,00 (CLT)
+Faixa salarial: R$4000,00 - R$6000,00 (CLT)
 
 **Benefícios:**
 
