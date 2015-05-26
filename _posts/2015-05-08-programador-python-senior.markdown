@@ -2,6 +2,7 @@
 layout: post
 title:  Programador Full-Stack Sênior (Python)
 date:   2015-05-08 18:02:33
+status: closed
 categories: jobs
 ---
 

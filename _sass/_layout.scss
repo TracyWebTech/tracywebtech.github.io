@@ -199,6 +199,11 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+
+    h2.closed-position {
+        color: #aa0000;
+        font-style: italic;
+    }
 }
 
 .post-title {

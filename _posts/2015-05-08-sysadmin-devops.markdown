@@ -3,6 +3,7 @@ layout: post
 title:  SysAdmin / Devops (Pleno)
 date:   2015-05-09 10:02:33
 categories: jobs
+status: closed
 ---
 
 
