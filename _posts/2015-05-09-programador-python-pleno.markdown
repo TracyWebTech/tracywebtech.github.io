@@ -3,6 +3,7 @@ layout: post
 title:  Programador Full-Stack Pleno (Python)
 date:   2015-05-09 10:02:33
 categories: jobs
+status: closed
 ---
 
 
